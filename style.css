@@ -8,4 +8,33 @@ html {
   padding: 0;
 }
 
+.roboto {
+  font-family: 'Roboto';
+}
+
+.playfair {
+  font-family: 'Playfair Display';
+}
+
+/* Mobile */
+@media only screen and (max-width: 500px) {
+
+
+
+}
+
+/* Tablet */
+@media only screen and (max-width: 1000px) {
+
+}
+
+/* Desktop */
+
+
+/* Global */
+
+.about-img {
+  width: 300px;
+  height: auto;
+}
 
