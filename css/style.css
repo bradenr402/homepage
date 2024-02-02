@@ -158,6 +158,7 @@ html {
 
 .project-title {
   display: flex;
+  gap: 1rem;
   align-items: center;
   margin: 1rem 2rem;
 }
@@ -208,6 +209,28 @@ footer {
 .footer-img img {
   width: 100%;
   height: auto;
+}
+
+.contact-method {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.address {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.hero {
+  position: relative;
+}
+
+.hero a {
+  z-index: 50;
+  position: relative;
 }
 
 /* Tablet */
