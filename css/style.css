@@ -49,7 +49,7 @@ html {
 
 .main-img {
   background-image: linear-gradient(to top, rgba(0, 0, 0, 0.4), transparent),
-    url("/img/main-img.jpg");
+    url("img/main-img.jpg");
   width: min(400px, 100% - 4rem);
   height: 450px;
   background-size: cover;
@@ -270,7 +270,7 @@ footer {
   .main-img {
     position: relative;
     background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.4), transparent),
-      url("/img/main-img.jpg");
+      url("img/main-img.jpg");
     width: min(400px, 35%);
     height: min(450px, 70vw);
     margin-right: 0;
@@ -343,7 +343,7 @@ footer {
     align-items: end;
     justify-content: center;
     background-image: linear-gradient(to top, rgba(0, 0, 0, 0.4), transparent),
-      url("/img/main-img.jpg");
+      url("img/main-img.jpg");
   }
 
   .my-name {
